@@ -1,0 +1,83 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color:rgb(1, 73, 1);
+}
+
+.title{
+    font-size: 75px;
+    text-align:center;   
+    background-color: white;
+}
+
+.link-list{
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 10px;
+    line-height: 75px;
+}
+
+.link-list a:link{
+    text-decoration: none;
+    color:aquamarine;
+}
+
+.link-list a:visited{
+    color: aquamarine;
+}
+
+.link-list a:hover{
+    color:rgb(105, 209, 174);
+}
+
+.home{
+    font-size: 50px;
+    letter-spacing: 15px;
+}
+
+.topper a:link{
+    text-decoration: none;
+    color:rgb(1, 73, 1);
+}
+
+.topper a:visited{
+    color:rgb(1, 73, 1);
+}
+
+.topper a:hover{
+    color:rgb(0, 39, 0);
+}
+
+.topper{
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.description{
+    font-size:18px;
+}
+
+.pic{
+    width: 800px;
+    height: auto;
+}
+
+.info{
+    text-align: center;
+    background-color: rgb(1, 73, 1);
+    color: white;
+    font-size: 30px;
+}
+
+.ingredients,.steps{
+    text-align: left;
+    margin: auto;
+    width: 30%;
+    font-size: 18px;
+}
+
+.ingredients {
+    width: 15%;
+}
